@@ -1,0 +1,26 @@
+{
+  "name": "react-event-mixin",
+  "version": "0.0.1",
+  "description": "Event binding cross browser for reactjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xeodou/react-event-mixin.git"
+  },
+  "homepage": "https://github.com/xeodou/react-event-mixin",
+  "keywords": [
+    "react",
+    "react-component",
+    "event",
+    "binding"
+  ],
+  "author": "xeodou@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xeodou/react-event-mixin/issues"
+  },
+  "homepage": "https://github.com/xeodou/react-event-mixin"
+}
